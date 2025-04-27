@@ -13,6 +13,10 @@
 - [CircleImageView](https://github.com/hdodenhof/CircleImageView)
 - Google Places API
 
+*This project was developed as part of The Complete Android 14 & Kotlin Development Masterclass by TutorialsEU*
+
+*Minimum supported Android version is **Android 7 (Nougat)** but recommended is **Android 13 (Tiramisu)***
+
 ## Illustrations
 
 ### Home screen
